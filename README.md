@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm currently pursuing **B.Tech CSE-DS (3rd Year)** at **NRI Institute of Technology, Guntur**
-- 🧠 I'm passionate about **Python, Data Science, Machine Learning, and Artificial Intelligence**
+- 🧠 I'm passionate about **  Python, Data Science, Machine Learning, and Artificial Intelligence  **
 - 🤖 I built a **Telegram AI Chatbot** using Python and AI frameworks
 - 🌱 I’m always learning more about deep learning, neural networks, and AI systems
 - 💬 Ask me about Python, ML, AI, or Bot Development
