@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer;Python+%7C+ML+%7C+Data+Science+Enthusiast;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="G:\My Drive\Arjun Photo.jpg" alt="Arjun Profile Picture" width="200" />
+</p>
 </p>
 
 ---
