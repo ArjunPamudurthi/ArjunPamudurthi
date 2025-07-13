@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PAMUDURTHI ARJUN </h1>
+<h1 align="center">Hi 👋, I'm Arjun Pamudurthi </h1>
 <h3 align="center">3rd Year B.Tech Student at NRI Institute of Technology, Guntur | CSE - Data Science</h3>
 
 <p align="center">
